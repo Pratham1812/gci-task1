@@ -1,3 +1,3 @@
-text = 'Hello World... How You doing ? '
+text = 'Hello World'
 
 print(text)
